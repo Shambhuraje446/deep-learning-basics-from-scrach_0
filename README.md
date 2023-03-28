@@ -21,4 +21,5 @@
 - Train Accuracy : 18.92%
 - Test Accuracy : 19.58%
 - f1-score : 0.1958.
+#### Results are stored in data.txt.
 ## Go through code and Enjoy the analysis.
