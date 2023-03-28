@@ -1,0 +1,136 @@
+A number of neurons in hidden layer is 800
+A number of iterations are 80
+The activation function used is   SGD
+Cost after )0iterations is : 3.344378940609809
+Cost after )8iterations is : 3.2896283696876503
+Cost after )16iterations is : 3.2553014333095533
+Cost after )24iterations is : 3.232878948942259
+Cost after )32iterations is : 3.217728610039786
+Cost after )40iterations is : 3.207186412947967
+Cost after )48iterations is : 3.1996611781567443
+Cost after )56iterations is : 3.1941726302613835
+Cost after )64iterations is : 3.190098695559703
+Cost after )72iterations is : 3.1870325946140508
+Accuracy of Train Dataset : 18.921058738414075
+Accuracy of Test Dataset : 19.587430854333128
+f1-score of model is 0.1958743085433313
+
+A number of neurons in hidden layer is 800
+A number of iterations are 80
+The activation function used is   RMS_prop
+Cost after )0iterations is : 3.344378940609809
+Cost after )8iterations is : 3.354965036541033
+Cost after )16iterations is : 3.3403736874440586
+Cost after )24iterations is : 3.3207950154620516
+Cost after )32iterations is : 3.298772192908969
+Cost after )40iterations is : 3.276923890710382
+Cost after )48iterations is : 3.2570135716989603
+Cost after )56iterations is : 3.2400149393255284
+Cost after )64iterations is : 3.2261922261822824
+Cost after )72iterations is : 3.215329490204931
+Accuracy of Train Dataset : 12.039805069822679
+Accuracy of Test Dataset : 12.115857406269207
+f1-score of model is 0.12115857406269206
+
+A number of neurons in hidden layer is 1600
+A number of iterations are 80
+The activation function used is   SGD
+Cost after )0iterations is : 3.4401807389957884
+Cost after )8iterations is : 3.3184148114115506
+Cost after )16iterations is : 3.2459731549113338
+Cost after )24iterations is : 3.2083800655824093
+Cost after )32iterations is : 3.1910205439701644
+Cost after )40iterations is : 3.18340470507355
+Cost after )48iterations is : 3.1799956205191835
+Cost after )56iterations is : 3.178368778241647
+Cost after )64iterations is : 3.177535223571274
+Cost after )72iterations is : 3.1770836571836063
+Accuracy of Train Dataset : 18.921058738414075
+Accuracy of Test Dataset : 19.587430854333128
+f1-score of model is 0.1958743085433313
+
+A number of neurons in hidden layer is 1600
+A number of iterations are 80
+The activation function used is   RMS_prop
+Cost after )0iterations is : 3.4401807389957884
+Cost after )8iterations is : 4.028697742718402
+Cost after )16iterations is : 3.9921581305927036
+Cost after )24iterations is : 3.353999470620636
+Cost after )32iterations is : 3.2849609096811485
+Cost after )40iterations is : 3.234802297290952
+Cost after )48iterations is : 3.2088335981304446
+Cost after )56iterations is : 3.1960677130723405
+Cost after )64iterations is : 3.189461889959447
+Cost after )72iterations is : 3.1857444515057245
+Accuracy of Train Dataset : 14.449131141051366
+Accuracy of Test Dataset : 15.953441917639827
+f1-score of model is 0.15953441917639827
+
+A number of neurons in hidden layer is 800
+A number of iterations are 120
+The activation function used is   SGD
+Cost after )0iterations is : 3.344378940609809
+Cost after )12iterations is : 3.270569829514175
+Cost after )24iterations is : 3.232878948942259
+Cost after )36iterations is : 3.211999302440325
+Cost after )48iterations is : 3.1996611781567443
+Cost after )60iterations is : 3.1919881246776276
+Cost after )72iterations is : 3.1870325946140508
+Cost after )84iterations is : 3.1837475083464115
+Cost after )96iterations is : 3.181531964183132
+Cost after )108iterations is : 3.1800210955405297
+Accuracy of Train Dataset : 18.921058738414075
+Accuracy of Test Dataset : 19.587430854333128
+f1-score of model is 0.1958743085433313
+
+A number of neurons in hidden layer is 800
+A number of iterations are 120
+The activation function used is   RMS_prop
+Cost after )0iterations is : 3.344378940609809
+Cost after )12iterations is : 3.3483168782689097
+Cost after )24iterations is : 3.3207950154620516
+Cost after )36iterations is : 3.287697711388325
+Cost after )48iterations is : 3.2570135716989603
+Cost after )60iterations is : 3.2327119476528328
+Cost after )72iterations is : 3.215329490204931
+Cost after )84iterations is : 3.203582143405405
+Cost after )96iterations is : 3.1958166315848944
+Cost after )108iterations is : 3.190671994359257
+Accuracy of Train Dataset : 18.921058738414075
+Accuracy of Test Dataset : 19.587430854333128
+f1-score of model is 0.1958743085433313
+
+A number of neurons in hidden layer is 1600
+A number of iterations are 120
+The activation function used is   SGD
+Cost after )0iterations is : 3.4401807389957884
+Cost after )12iterations is : 3.276883323753102
+Cost after )24iterations is : 3.2083800655824093
+Cost after )36iterations is : 3.1864389299118994
+Cost after )48iterations is : 3.1799956205191835
+Cost after )60iterations is : 3.1778864040774177
+Cost after )72iterations is : 3.1770836571836063
+Cost after )84iterations is : 3.1767473184056554
+Cost after )96iterations is : 3.1765998101191153
+Cost after )108iterations is : 3.1765337268393776
+Accuracy of Train Dataset : 18.921058738414075
+Accuracy of Test Dataset : 19.587430854333128
+f1-score of model is 0.1958743085433313
+
+A number of neurons in hidden layer is 1600
+A number of iterations are 120
+The activation function used is   RMS_prop
+Cost after )0iterations is : 3.4401807389957884
+Cost after )12iterations is : 4.331378142146312
+Cost after )24iterations is : 3.353999470620636
+Cost after )36iterations is : 3.256204210628674
+Cost after )48iterations is : 3.2088335981304446
+Cost after )60iterations is : 3.1922609515308316
+Cost after )72iterations is : 3.1857444515057245
+Cost after )84iterations is : 3.1826602066601053
+Cost after )96iterations is : 3.1809639984687648
+Cost after )108iterations is : 3.179922750851207
+Accuracy of Train Dataset : 18.921058738414075
+Accuracy of Test Dataset : 19.587430854333128
+f1-score of model is 0.1958743085433313
+
