@@ -1,4 +1,4 @@
-# deep-learning-basics-from-scrach_0 (3 layer neural network)
+# deep-learning-basics-from-scrach_0 (4 Layers neural network)
 ## Problem Statement :
 - The Street View House Numbers Predictions.
 #### ![Screenshot 2023-03-28 184733](https://user-images.githubusercontent.com/116808590/228262687-ebb264b1-4039-40c7-b8e8-8c33e1e1e66e.png)
@@ -9,7 +9,7 @@
 ## Dataset :
 - link of dataset : http://ufldl.stanford.edu/housenumbers/   {Take test_32x32.mat and train_32x32.mat datasets}
 ## Architacture :
-- Implement 3 layer deep feed-forward neural with a sigmoid activation function.
+- Implement 4 layer deep feed-forward neural with a sigmoid activation function(1 Input, 2 Hidden, and 1 Output) layer.
 - Implement Xavier weight initialization.
 - Implement Cross-entropy loss
 - Implement SGD and RMSProp optimizer to update the weights.
