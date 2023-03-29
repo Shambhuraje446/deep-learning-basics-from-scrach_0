@@ -17,6 +17,8 @@
 - Report following things : Accuracy, Cost, and F1-score.
 ## Usage :
 - Run this command : python Q1.py
+## Loss function curves are stored in (No. of neurons - No. of iterations - Optimizer) file.
+- In which we have 8 curves of different Hyperparameters.
 ## Result :
 - Train Accuracy : 18.92%
 - Test Accuracy : 19.58%
