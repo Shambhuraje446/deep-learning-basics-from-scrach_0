@@ -1,4 +1,4 @@
-# deep-learning-basics-from-scrach_0 (4 Layers neural network)
+# deep-learning-basics-from-scrach_0 (3 Layers neural network)
 ## Problem Statement :
 - The Street View House Numbers Predictions.
 #### ![Screenshot 2023-03-28 184733](https://user-images.githubusercontent.com/116808590/228262687-ebb264b1-4039-40c7-b8e8-8c33e1e1e66e.png)
